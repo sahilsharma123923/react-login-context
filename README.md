@@ -18,6 +18,7 @@ If you are developing a production application, we recommend using TypeScript wi
 =======
 # react-login-context
 A simple login authentication project built with React and Context API.
+<<<<<<< HEAD
 
 # React Login Form using Context API
 
@@ -39,3 +40,5 @@ This project demonstrates how to use React Context API for managing and sharing 
 * Working with React Hooks
 * Component-based architecture
 >>>>>>> adb318b1d210af38f3ed29d3df5a929fb9dec2f2
+=======
+>>>>>>> 2e6fa862608dbe4872e6ba1868648ac0be2831fb
